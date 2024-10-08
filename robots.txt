@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ducrai.github.io/KRZ/sitemap.KRZ.gz
